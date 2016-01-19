@@ -1,3 +1,10 @@
+# JWT introduction
+
+[使用JWT](http://haomou.net/2014/08/13/2014_web_token/)
+[JWT introduction](https://jwt.io/introduction/)
+
+
+
 # node-jwt-simple
 
 [JWT(JSON Web Token)](http://self-issued.info/docs/draft-jones-json-web-token.html) encode and decode module for node.js.
